@@ -2,7 +2,7 @@
 
 1. What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
-    - React JS manages interactions with the DOM and helps organize code into separate components.
+    - React JS manages interactions with the DOM and helps organize code into separate components. It helps solve issues that deal with building large applications that have dynamic data changes.
 
 2. What does it mean to think in react?
 
